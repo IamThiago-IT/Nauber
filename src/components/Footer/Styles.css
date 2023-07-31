@@ -1,0 +1,260 @@
+.footer-div23 {
+  position: absolute;
+  height: 100%;
+  width: 100vw;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.footer-div22 {
+  position: absolute;
+  top: 1509px;
+  left: 0;
+  width: 100vw;
+  height: 509px;
+  font-size: 12px;
+  font-family: Inter;
+}
+
+.rectangle-div6 {
+  position: absolute;
+  height: 123.58%;
+  width: 40.63%;
+  top: -251.08%;
+  right: 50%;
+  bottom: 227.5%;
+  left: 9.38%;
+  background-color: #dedada;
+  display: none;
+}
+
+.frame-div4,
+.group-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 509px;
+}
+.frame-div4 {
+  top: 138.938rem;
+  text-align: left;
+  font-size: 12px;
+  color: #fff;
+  font-family: 'Inter';
+}
+
+.nauber-pro-div {
+  position: absolute;
+  height: 100%;
+  width: 100vw;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+
+.bg-div {
+  height: 100%;
+  width: 100vw;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #171717;
+}
+
+.siga-nas-redes-sociais {
+  position: absolute;
+  top: 50.29%;
+  left: 9.24%;
+  font-size: 14px;
+  font-weight: 500;
+  display: inline-block;
+}
+
+.nauber-2022-todos-os-direito {
+  position: absolute;
+  top: 81.14%;
+  left: 9.24%;
+  display: inline-block;
+}
+
+.nauber-maquinas-e-equipamentos,
+.politicas-de-privacidade-ter {
+  position: absolute;
+  width: 22.36%;
+  top: 81.14%;
+  left: 68.26%;
+  text-align: right;
+  display: inline-block;
+}
+.nauber-maquinas-e-equipamentos {
+  width: 30.28%;
+  top: 62.28%;
+  left: 60.21%;
+}
+
+.dvidas-div {
+  position: absolute;
+  height: 20.63%;
+  width: 14.24%;
+  top: 12.38%;
+  right: 34.79%;
+  bottom: 66.99%;
+  left: 50.97%;
+  font-size: 14px;
+  color: #8d8b8b;
+}
+
+.converse-com-um-especialista,
+.envie-um-e-mail,
+.ficou-com-dvidas,
+.voltar-ao-incio {
+  position: absolute;
+  top: 30.48%;
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+  white-space: nowrap;
+}
+.envie-um-e-mail,
+.ficou-com-dvidas,
+.voltar-ao-incio {
+  top: 57.14%;
+}
+.ficou-com-dvidas,
+.voltar-ao-incio {
+  top: 83.81%;
+}
+.ficou-com-dvidas {
+  top: 0;
+  color: #fff;
+}
+
+.produtos-div1 {
+  position: absolute;
+  height: 15.13%;
+  width: 7.5%;
+  top: 12.38%;
+  right: 83.26%;
+  bottom: 72.5%;
+  left: 9.24%;
+  font-size: 14px;
+  color: #8d8b8b;
+}
+
+.construo-civil-div,
+.linha-industrial-div {
+  position: absolute;
+  top: 41.56%;
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+  white-space: nowrap;
+}
+
+.linha-industrial-div {
+  top: 77.92%;
+}
+
+.nossa-sede-div {
+  position: absolute;
+  height: 26.33%;
+  width: 16.11%;
+  top: 11.98%;
+  right: 56.6%;
+  bottom: 61.69%;
+  left: 27.29%;
+  color: #8d8b8b;
+}
+
+
+
+.redes-sociais-icon {
+  position: absolute;
+  height: 4.43%;
+  width: 10.84%;
+  top: 56.97%;
+  right: 25.93%;
+  bottom: 38.6%;
+  left: 9.24%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  font-size: 24px;
+  display: flex;
+  justify-content: space-around;
+}
+
+
+
+
+.div,
+.div1,
+.div2,
+.nossa-sede-div1,
+.rua-mal-castelo-branco-2477 {
+  position: absolute;
+  top: 23.88%;
+  left: 0.86%;
+  font-weight: 500;
+  display: inline-block;
+}
+.div,
+.div1,
+.div2,
+.nossa-sede-div1 {
+  top: 52.99%;
+}
+.div1,
+.div2,
+.nossa-sede-div1 {
+  top: 70.9%;
+  left: 0;
+}
+.div2,
+.nossa-sede-div1 {
+  top: 88.81%;
+}
+.nossa-sede-div1 {
+  top: 0;
+  left: 0.86%;
+  font-size: 14px;
+  color: #fff;
+}
+
+.pin-icon {
+  position: absolute;
+  top: 94.5px;
+  left: 356px;
+  width: 16px;
+  height: 16px;
+  overflow: hidden;
+}
+.line-div1 {
+  position: absolute;
+  height: 0.2%;
+  width: 81.32%;
+  top: 71.41%;
+  right: 9.48%;
+  bottom: 28.39%;
+  left: 9.2%;
+  border-top: 1px solid #fff;
+  box-sizing: border-box;
+}
+.logo-nauber-icon {
+  position: absolute;
+  height: auto;
+  width: 18.61%;
+  top: 11.94%;
+  right: 9.51%;
+  bottom: 77.84%;
+  left: 71.88%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+
+/**/

@@ -1,0 +1,859 @@
+.bg-div2 {
+  position: absolute;
+  height: 100%;
+  width: 100vw;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: #171717;
+}
+.phone-icon1 {
+  position: absolute;
+  top: 128px;
+  left: 369px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.siga-nas-redes-sociais1 {
+  position: absolute;
+  top: 50.29%;
+  left: 9.24%;
+  font-size: 14px;
+  font-weight: 500;
+  display: inline-block;
+}
+.nauber-2022-todos-os-direito1 {
+  position: absolute;
+  top: 81.14%;
+  left: 9.24%;
+  display: inline-block;
+}
+.nauber-maquinas-e-equipamentos1,
+.politicas-de-privacidade-ter1 {
+  position: absolute;
+  width: 22.36%;
+  top: 81.14%;
+  left: 68.26%;
+  text-align: right;
+  display: inline-block;
+}
+.nauber-maquinas-e-equipamentos1 {
+  width: 30.28%;
+  top: 62.28%;
+  left: 60.21%;
+}
+.redes-sociais-icon1 {
+  position: absolute;
+  height: 4.43%;
+  width: 7.84%;
+  top: 56.97%;
+  right: 82.93%;
+  bottom: 38.6%;
+  left: 9.24%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.converse-com-um-especialista1,
+.envie-um-e-mail1,
+.ficou-com-dvidas1,
+.voltar-ao-incio1 {
+  position: absolute;
+  top: 30.48%;
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+  white-space: nowrap;
+}
+.envie-um-e-mail1,
+.ficou-com-dvidas1,
+.voltar-ao-incio1 {
+  top: 57.14%;
+}
+.ficou-com-dvidas1,
+.voltar-ao-incio1 {
+  top: 83.81%;
+}
+.ficou-com-dvidas1 {
+  top: 0;
+  color: #fff;
+}
+.dvidas-div1 {
+  position: absolute;
+  height: 20.63%;
+  width: 14.24%;
+  top: 12.38%;
+  right: 34.79%;
+  bottom: 66.99%;
+  left: 50.97%;
+  font-size: 14px;
+  color: #8d8b8b;
+}
+.construo-civil-div1,
+.linha-industrial-div1 {
+  position: absolute;
+  top: 41.56%;
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+  white-space: nowrap;
+}
+.linha-industrial-div1 {
+  top: 77.92%;
+}
+.produtos-div4 {
+  position: absolute;
+  height: 15.13%;
+  width: 7.5%;
+  top: 12.38%;
+  right: 83.26%;
+  bottom: 72.5%;
+  left: 9.24%;
+  font-size: 14px;
+  color: #8d8b8b;
+}
+.rua-mal-castelo1 {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.schroeder-sc1 {
+  margin: 0;
+}
+.div3,
+.div4,
+.div5,
+.nossa-sede-div3,
+.rua-mal-castelo-branco-24771 {
+  position: absolute;
+  top: 23.88%;
+  left: 0.86%;
+  font-weight: 500;
+  display: inline-block;
+}
+.div3,
+.div4,
+.div5,
+.nossa-sede-div3 {
+  top: 52.99%;
+}
+.div4,
+.div5,
+.nossa-sede-div3 {
+  top: 70.9%;
+  left: 0;
+}
+.div5,
+.nossa-sede-div3 {
+  top: 88.81%;
+}
+.nossa-sede-div3 {
+  top: 0;
+  left: 0.86%;
+  font-size: 14px;
+  color: #fff;
+}
+.nossa-sede-div2 {
+  position: absolute;
+  height: 26.33%;
+  width: 16.11%;
+  top: 11.98%;
+  right: 56.6%;
+  bottom: 61.69%;
+  left: 27.29%;
+  color: #8d8b8b;
+}
+.pin-icon1 {
+  position: absolute;
+  top: 102.5px;
+  left: 378px;
+  width: 11px;
+  height: 11px;
+  overflow: hidden;
+}
+.line-div3 {
+  position: absolute;
+  height: 0.2%;
+  width: 81.32%;
+  top: 71.41%;
+  right: 9.48%;
+  bottom: 28.39%;
+  left: 9.2%;
+  border-top: 1px solid #fff;
+  box-sizing: border-box;
+}
+.logo-nauber-icon1 {
+  position: absolute;
+  height: auto;
+  width: 18.61%;
+  top: 11.94%;
+  right: 9.51%;
+  bottom: 77.84%;
+  left: 71.88%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.rectangle-div27 {
+  position: absolute;
+  height: 123.58%;
+  width: 40.63%;
+  top: -251.08%;
+  right: 50%;
+  bottom: 227.5%;
+  left: 9.38%;
+  background-color: #dedada;
+  display: none;
+}
+.footer-div3 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.footer-div2 {
+  position: absolute;
+  top: 1569px;
+  left: 0;
+  width: 100vw;
+  height: 509px;
+  font-size: 12px;
+}
+.bg-header4 {
+  position: absolute;
+  top: 63px;
+  left: 45px;
+  border-radius: 10px;
+  background: linear-gradient(180deg, #068f13, #165032);
+  width: 1336px;
+  height: 70px;
+}
+.bg-header5,
+.bg-header6 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #fff;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 1440px;
+}
+.bg-header5 {
+  height: 1px;
+  display: none;
+}
+.bg-header6 {
+  height: 73px;
+}
+.nauber-logo-1-icon1 {
+  position: absolute;
+  top: 22px;
+  left: 135px;
+  width: 170px;
+  height: 33px;
+  object-fit: cover;
+  display: none;
+}
+.logo-div1,
+.logo-nauber-11 {
+  position: absolute;
+  width: 170px;
+  height: 47.02px;
+}
+.logo-nauber-11 {
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+.logo-div1 {
+  top: 14px;
+  left: 135px;
+}
+.home-b1,
+.vector-icon13 {
+  position: absolute;
+  top: 100.5px;
+  left: 777px;
+  width: 6px;
+  height: 3px;
+  display: none;
+}
+.home-b1 {
+  top: 3px;
+  left: 27px;
+  display: inline-block;
+  width: 33px;
+  height: 17px;
+}
+.home-icon1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.empresa-b1,
+.empresa-icon1,
+.home-div2 {
+  position: absolute;
+  top: 4px;
+  left: 0;
+  width: 60px;
+  height: 20px;
+}
+.empresa-b1,
+.empresa-icon1 {
+  top: 0;
+  width: 20px;
+}
+.empresa-b1 {
+  top: 3px;
+  left: 27px;
+  display: inline-block;
+  width: 53px;
+  height: 17px;
+}
+.empresa-div1 {
+  position: absolute;
+  top: 4px;
+  left: 130px;
+  width: 80px;
+  height: 20px;
+}
+.box-icon1,
+.produtos-b1 {
+  position: absolute;
+  top: 0;
+  height: 17px;
+}
+.produtos-b1 {
+  left: 28.63px;
+  display: inline-block;
+  width: 57px;
+}
+.box-icon1 {
+  left: 0;
+  width: 21.25px;
+  overflow: hidden;
+}
+.assistncias-b1,
+.produtos-div6 {
+  position: absolute;
+  top: 7px;
+  left: 280px;
+  width: 85.63px;
+  height: 17px;
+}
+.assistncias-b1 {
+  top: 2px;
+  left: 29px;
+  display: inline-block;
+  width: 77px;
+}
+.assistencia-div1 {
+  position: absolute;
+  top: 5px;
+  left: 436px;
+  width: 106px;
+  height: 20px;
+  color: #fae013;
+}
+.catlogos-virtuais-b1 {
+  position: absolute;
+  top: 2px;
+  left: 26px;
+  display: inline-block;
+  width: 116px;
+  height: 17px;
+}
+.catlogos-div1,
+.contato-b1 {
+  position: absolute;
+  top: 5px;
+  left: 612px;
+  width: 142px;
+  height: 20px;
+}
+.contato-b1 {
+  top: 3px;
+  left: 27px;
+  display: inline-block;
+  width: 51px;
+  height: 17px;
+}
+.contato-div1,
+.login-b1 {
+  position: absolute;
+  top: 4px;
+  left: 824px;
+  width: 78px;
+  height: 20px;
+}
+.login-b1 {
+  top: 7px;
+  left: 29px;
+  display: inline-block;
+  width: 51px;
+  height: 17px;
+}
+.logim-icon1,
+.login-div1 {
+  position: absolute;
+  top: 0;
+  height: 24px;
+}
+.logim-icon1 {
+  left: 0;
+  width: 24px;
+  overflow: hidden;
+}
+.login-div1 {
+  left: 972px;
+  width: 80px;
+}
+.menu-div1,
+.vector-icon14 {
+  position: absolute;
+  top: 91px;
+  left: 204px;
+  width: 1052px;
+  height: 25px;
+}
+.vector-icon14 {
+  top: 0.54px;
+  left: 1172px;
+  width: 117px;
+  height: 74.21px;
+}
+.flag-arabia-1-icon1,
+.flag-brasil-1-icon1,
+.flag-espanha-1-icon1,
+.flag-eua-1-icon1 {
+  position: absolute;
+  top: 30.46px;
+  left: -4px;
+  width: 35.92px;
+  height: 22.7px;
+  object-fit: cover;
+}
+.flag-arabia-1-icon1,
+.flag-espanha-1-icon1,
+.flag-eua-1-icon1 {
+  left: 31.36px;
+}
+.flag-arabia-1-icon1,
+.flag-eua-1-icon1 {
+  left: 66.72px;
+}
+.flag-arabia-1-icon1 {
+  left: 102.08px;
+}
+.flags-div1,
+.line-div4 {
+  position: absolute;
+  top: 0.54px;
+  left: 1164px;
+  width: 134px;
+  height: 74.21px;
+}
+.line-div4 {
+  top: 27.5px;
+  left: 1143.5px;
+  border-right: 1px solid #8a8a8a;
+  box-sizing: border-box;
+  width: 1px;
+  height: 21px;
+}
+.base-de-conhecimento-11,
+.logo-revenda-pro-11 {
+  position: absolute;
+  top: 16px;
+  left: 961px;
+  width: 159px;
+  height: 43.08px;
+  object-fit: cover;
+}
+.logo-revenda-pro-11 {
+  left: 809.94px;
+  width: 40.12px;
+  height: 43px;
+}
+.conhea-o-sistema3 {
+  font-weight: 500;
+}
+.nauber-pro2 {
+  margin: 0;
+  font-size: 10.63px;
+}
+.conhea-o-sistema-de-revnda-n1 {
+  position: absolute;
+  top: 19px;
+  left: 857px;
+  line-height: 9.5px;
+  color: #000;
+  display: inline-block;
+  font-size: 7.59px;
+  font-family: 'Inter', sans-serif;
+}
+.rectangle-div28 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 38px;
+  background-color: #ebebeb;
+  width: 373px;
+  height: 38px;
+}
+.frame-icon {
+  position: absolute;
+  top: 12px;
+  left: 328.7px;
+  width: 14.67px;
+  height: 15px;
+}
+.header-div1,
+.seach-div1 {
+  position: absolute;
+  top: 18px;
+  left: 405px;
+  width: 373px;
+  height: 38px;
+}
+.header-div1 {
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 133px;
+  font-size: 18px;
+  font-family: 'Inter', sans-serif;
+}
+.vector-icon15,
+.vector-icon16 {
+  position: absolute;
+  top: 22px;
+  left: 4px;
+  width: 125vw;
+  height: 12px;
+}
+.vector-icon16 {
+  top: 0;
+  width: 536px;
+  height: 63px;
+}
+.assistncias-b2 {
+  position: absolute;
+  top: 0.3rem;
+  left: 138px;
+  display: inline-block;
+  font-family: 'Bebas Neue', sans-serif;
+  letter-spacing: 2px;
+}
+.headline-div {
+  position: absolute;
+  top: 148px;
+  left: -4px;
+  width: 1444px;
+  height: 63px;
+  font-size: 47.04px;
+  font-family: 'Inter', sans-serif;
+}
+.rectangle-div29 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 10px;
+  background: linear-gradient(193.84deg, #0a841d, #0b592e), #fff;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+  width: 1171px;
+  height: 233px;
+}
+.localize-a-assistncia-mais-pr {
+  position: absolute;
+  top: 35px;
+  left: 436px;
+  font-size: 18.03px;
+  display: inline-block;
+  font-family: 'Bebas Neue', sans-serif;
+  width: 296px;
+}
+.ou-div,
+.ou-div1 {
+  position: absolute;
+  top: 101px;
+  left: 471px;
+  display: inline-block;
+  width: 37px;
+}
+.ou-div1 {
+  left: 820px;
+  width: 27px;
+}
+.rectangle-div30 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 6.54px;
+  background-color: #fff;
+  width: 308.11px;
+  height: 42.52px;
+}
+.seach-icon {
+  position: absolute;
+  top: 12.49px;
+  left: 275.84px;
+  width: 15.27px;
+  height: 15.61px;
+}
+.informe-seu-cep {
+position: absolute;
+top: 1.49px;
+left: 0.65px;
+display: inline-block;
+border: none;
+width: 17.5rem;
+padding: 0.7rem;
+border-radius: 0.2rem;
+}
+.cep-div,
+.cidade-div,
+.virificar-endereo-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 308.11px;
+  height: 42.52px;
+}
+.cidade-div,
+.virificar-endereo-div {
+  left: 355.99px;
+}
+.virificar-endereo-div {
+  top: 103.93px;
+  left: 104px;
+  width: 664.1px;
+  text-align: left;
+  font-size: 12.49px;
+  color: #929292;
+}
+.concordo-em-compartilhar-a-min {
+  position: absolute;
+  top: 102.99px;
+  left: 13.62px;
+  display: inline-block;
+  width: 238.28px;
+  font-size: 7.84px;
+  font-weight: 400;
+}
+.rectangle-div32 {
+  position: absolute;
+  top: 26.02px;
+  left: 65.58px;
+  border-radius: 17.17px;
+  background-color: #fff;
+  width: 186.32px;
+  height: 34.35px;
+}
+.ellipse-icon,
+.global-1-1-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 86.4px;
+  height: 86.4px;
+}
+.global-1-1-icon {
+  top: 10.41px;
+  left: 10.41px;
+  width: 66.62px;
+  height: 66.62px;
+  object-fit: cover;
+}
+.usar-minha-localizao {
+  position: absolute;
+  top: 35.39px;
+  left: 81.64px;
+  font-size: 12.49px;
+  color: #929292;
+  text-align: left;
+  display: inline-block;
+}
+.rectangle-div33 {
+  position: absolute;
+  height: 41.67%;
+  width: 50%;
+  top: 29.17%;
+  right: 25.01%;
+  bottom: 29.17%;
+  left: 24.99%;
+  background-color: #fff;
+}
+.vector-icon17,
+.verificado-div {
+  position: absolute;
+  overflow: hidden;
+}
+.vector-icon17 {
+  height: 83.33%;
+  width: 83.33%;
+  top: 8.33%;
+  right: 8.34%;
+  bottom: 8.33%;
+  left: 8.33%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.verificado-div {
+  top: 101.45px;
+  left: 0;
+  width: 13.62px;
+  height: 13.62px;
+}
+.localizao-div {
+  position: absolute;
+  top: 73.74px;
+  left: 819.1px;
+  width: 251.9px;
+  height: 115.06px;
+  font-size: 1rem;
+}
+.card-endereo-div {
+  position: absolute;
+  top: 284px;
+  left: 134px;
+  width: 1171px;
+  height: 233px;
+  text-align: center;
+  font-size: 14px;
+}
+.assistncias-mais-prximas {
+  position: absolute;
+  top: 604px;
+  left: 470px;
+  font-size: 34px;
+  display: inline-block;
+  font-family: 'Bebas Neue', sans-serif;
+  color: #0f6b35;
+  text-align: center;
+  width: 504px;
+}
+.rectangle-div34,
+.rectangle-div35 {
+  position: absolute;
+  top: 0.31px;
+  left: 0;
+  border-radius: 6.98px;
+  background-color: #fff;
+  box-shadow: 0 4.539877414703369px 11.35px rgba(0, 0, 0, 0.15);
+  width: 370px;
+  height: 166.38px;
+}
+.rectangle-div35 {
+  top: 0;
+  background-color: #0a831e;
+  height: 39px;
+}
+.cidade-que-atende {
+  font-weight: 600;
+}
+.cidade-que-atende-nome-da-cid,
+.div6,
+.nome-da-assistncia {
+  position: absolute;
+  left: 13.62px;
+  display: inline-block;
+  width: 297.19px;
+}
+.cidade-que-atende-nome-da-cid {
+  top: 128.93px;
+  font-size: 14px;
+}
+.div6,
+.nome-da-assistncia {
+  top: 89.37px;
+}
+.nome-da-assistncia {
+  top: 10px;
+  left: 14px;
+  color: #fff;
+  width: 306.35px;
+}
+.email-assistencialojacombr-div,
+.localizao-rua-bla-bla-bla- {
+  position: absolute;
+  top: 47.64px;
+  left: 13.62px;
+  display: inline-block;
+  width: 306.35px;
+}
+.email-assistencialojacombr-div {
+  top: 68.43px;
+  color: #0b7c1d;
+}
+.phone-icon2,
+.seta-icon {
+  position: absolute;
+  top: 57.32px;
+  left: 324.62px;
+  width: 25.6px;
+  height: 24.96px;
+}
+.seta-icon {
+  top: 92.23px;
+}
+.assistncia-div1,
+.assistncia-div2,
+.assistncia-div3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 370px;
+  height: 166.69px;
+}
+.assistncia-div2,
+.assistncia-div3 {
+  left: 400px;
+}
+.assistncia-div3 {
+  left: 800px;
+}
+.linha-1-div,
+.linha-2-div,
+.linha-3-div {
+  position: absolute;
+  top: 673px;
+  left: 135px;
+  width: 1170px;
+  height: 166.69px;
+  color: #666;
+}
+.linha-2-div,
+.linha-3-div {
+  top: 893px;
+}
+.linha-3-div {
+  top: 1113px;
+}
+.busque-aqui-seu-produto1 {
+  position: absolute;
+  top: 29px;
+  left: 424px;
+  font-size: 12px;
+  color: #7a7a7a;
+  display: inline-block;
+}
+.assistncia-div {
+  position: relative;
+  background-color: #f1f1f1;
+  width: 100%;
+  height: 2078px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 14.25px;
+  color: #fff;
+  font-family: 'Inter', sans-serif;
+}
